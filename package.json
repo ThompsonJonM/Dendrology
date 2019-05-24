@@ -1,0 +1,27 @@
+{
+  "name": "cypress-testing",
+  "version": "1.0.0",
+  "description": "A project for automation testing using Cypress.io and ES6",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^3.3.1",
+    "mocha": "^6.1.4",
+    "mocha-junit-reporter": "^1.22.0",
+    "mocha-multi-reporters": "^1.1.7",
+    "mochawesome": "^3.1.2"
+  },
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThompsonJonM/cypress-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThompsonJonM/cypress-testing/issues"
+  },
+  "homepage": "https://github.com/ThompsonJonM/cypress-testing#readme"
+}
